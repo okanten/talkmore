@@ -4,6 +4,12 @@ Uses requests to interact with the talkmore web interface.
 
 Allows for sending sms, sending sms to all registered contacts, as well as retrieving contacts, and adding contacts.
 
+[pypi](https://pypi.org/project/talkmore/)
+
+```
+pip install talkmore
+```
+
 ## Examples
 
 ```python
