@@ -1,5 +1,7 @@
 # Talkmore
 
+[![Downloads](https://pepy.tech/badge/talkmore)](https://pepy.tech/project/talkmore)
+
 Uses requests to interact with the talkmore web interface.
 
 Allows for sending sms, sending sms to all registered contacts, as well as retrieving contacts, and adding contacts.
